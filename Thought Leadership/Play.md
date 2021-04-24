@@ -1,4 +1,5 @@
 ---
+contentType: Entry
 title: Play
 description: >
   Play with a capital P

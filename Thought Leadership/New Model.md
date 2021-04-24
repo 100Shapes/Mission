@@ -1,4 +1,5 @@
 ---
+contentType: Entry
 title: New Model
 description: >
   New model description

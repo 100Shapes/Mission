@@ -1,4 +1,5 @@
 ---
+contentType: Entry
 title: Strengths
 description: Finds ways to play to people's strengths
 ---

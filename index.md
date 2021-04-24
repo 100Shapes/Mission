@@ -1,4 +1,5 @@
 ---
+contentType: Entry
 title: Intentions
 description: What we plan to do.
 ---
