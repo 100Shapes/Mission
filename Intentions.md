@@ -1,3 +1,8 @@
+---
+title: Intentions
+description: What we plan to do.
+---
+
 # 100 Shapes "Energised"
 
 ## Infrastructure
