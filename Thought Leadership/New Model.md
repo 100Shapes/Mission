@@ -2,7 +2,7 @@
 contentType: Entry
 title: New Model
 description: >
-  New model description
+  Spreading the risk of completing a project.
 ---
 
 # Something here

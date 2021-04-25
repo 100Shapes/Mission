@@ -2,7 +2,7 @@
 contentType: Entry
 title: Play
 description: >
-  Play with a capital P
+  Play with a capital "P".
 ---
 
 # Something here
