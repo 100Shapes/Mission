@@ -57,9 +57,9 @@ Everything about generating Ideas and turning them into reality.
 
 Everything about EX & Coaching.
 
-- Managing People
+- [[Managers Toolkit]]
 - Reviews & Calibrations
-- Strengths (+tool)
+- [[Strengths]] (+tool)
 - Briefing tool
 - Difficult Conversations
 - Onboarding/Offboarding
@@ -105,7 +105,7 @@ Projects and Tools to energise work.
 - Optino
 - Flua
 - Briefing Tool
-- Strengths
+- [[Strengths]]
 - Pao's MCS
 - Team Allocations (Allicator)
 - Coachbot

@@ -6,4 +6,6 @@ description: Finds ways to play to people's strengths
 
 # Every Person is Unique
 
-There is no standard way of doing things.
+There is no standard way of doing things. Naturally, you can work on [[Difficult Conversations]].
+
+He said, "A 'single English sentence'".

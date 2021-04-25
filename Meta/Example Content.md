@@ -4,6 +4,17 @@ description: Lots of example content
 contentType: Guide
 ---
 
+# Formatting Text
+
+Let's say you want to create a list of thing. Well, use a `<Checklist />` with `<CheckBox />`:
+
+<Checklist>
+    <Checkbox isChecked>Drink Coffee</Checkbox>
+    <Checkbox isChecked>Eat Cake</Checkbox>
+    <Checkbox>Do yoga</Checkbox>
+    <Checkbox>Walk the dog</Checkbox>
+</Checklist>
+
 # Embedding Docs
 
 The full list of embed available is on the [mdx-embed site](https://www.mdx-embed.com/?path=/docs/components-figma--usage).
