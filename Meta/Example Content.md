@@ -24,8 +24,18 @@ The full list of embed available is on the [mdx-embed site](https://www.mdx-embe
 
 We can embed Figma docs into our posts just as you'd expect:
 
-```
+```jsx
 <Figma title="Boop" url="file/7QJ4ywb1qVAIwU6XsEVQlv/100-Shapes-Client-Logos-SVG?node-id=0%3A1" />
 ```
 
 <Figma title="Example Logo" url="file/7QJ4ywb1qVAIwU6XsEVQlv/100-Shapes-Client-Logos-SVG?node-id=0%3A1" />
+
+Naturally, we can add YouTube videos too:
+
+```jsx
+<YouTube youTubeId="mM5_T-F1Yn4" />
+```
+
+<YouTube youTubeId="mM5_T-F1Yn4" />
+
+---
