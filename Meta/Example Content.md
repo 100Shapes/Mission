@@ -37,5 +37,3 @@ Naturally, we can add YouTube videos too:
 ```
 
 <YouTube youTubeId="mM5_T-F1Yn4" />
-
----
