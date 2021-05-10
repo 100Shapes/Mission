@@ -1,7 +1,6 @@
 ---
-name: Tool
-site: https://tool.io/
-status: \[hold|assess|trial|adopt\]
+title: Managing People
+contentType: \[entry|guide\]
 topic:
  - machine learning
  - frontend
