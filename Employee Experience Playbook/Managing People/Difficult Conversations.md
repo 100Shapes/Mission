@@ -16,3 +16,6 @@ description: >
 <pre>
   <code>{JSON.stringify(props, null, 2)}</code>
 </pre>
+
+
+You should checkout [[Strengths]] too.
