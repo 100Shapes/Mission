@@ -6,8 +6,6 @@ contentType: Entry
 ---
 
 
-# Values
-
 ## Growth Through Experimentation
 
 We commit to being in a constant state of growth. Personal and professional development happens through trial and error; constant iteration and experimentation. 
