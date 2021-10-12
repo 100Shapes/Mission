@@ -2,10 +2,10 @@
 title: Communicating With Colleagues
 description: >
   Tips and tricks for communicating with team members.
-contentType: Entry
+lastUpdated: '2021-10-12'
 ---
 
-## Where this came from
+## Where this comes from
 
 Practicing clear communication has always been a priority - it helps us stay connected and aligned as a team.
 
