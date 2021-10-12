@@ -3,6 +3,8 @@ title: Communicating With Colleagues
 description: >
   Tips and tricks for communicating with team members.
 lastUpdated: '2021-10-12'
+author:
+  - Michele-Memoli
 ---
 
 ## Where this comes from
