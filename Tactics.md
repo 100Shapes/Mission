@@ -2,7 +2,7 @@
 title: Tactics
 description: >
   How we tackle
-contentType: Entry
+lastUpdated: '2021-12-10'
 ---
 
 Our strategy is to help others Energise work. Equip them with the ideas, tools and services to make a difference to the lives of their employees.
