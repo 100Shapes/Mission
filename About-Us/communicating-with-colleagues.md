@@ -5,6 +5,8 @@ description: >
 contentType: Entry
 ---
 
+## Where this came from
+
 Practicing clear communication has always been a priority - it helps us stay connected and aligned as a team.
 
 Now that we are remote, we have had to make some slight adjustments to our communication strategy at 100 Shapes. Asynchronous communication is no longer a novelty, now, we embrace it.
