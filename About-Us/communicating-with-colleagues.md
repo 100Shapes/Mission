@@ -1,15 +1,13 @@
 ---
 title: Communicating With Colleagues
 description: >
-  Tips and tricks for communicating with team members.
+  Practicing clear communication is a priority. It helps us stay connected and aligned as a team. Here's our tips and tricks for communicating with team members.
 lastUpdated: '2021-10-12'
 author:
   - Michele-Memoli
 ---
 
 ## Where this comes from
-
-Practicing clear communication has always been a priority - it helps us stay connected and aligned as a team.
 
 Now that we are remote, we have had to make some slight adjustments to our communication strategy at 100 Shapes. Asynchronous communication is no longer a novelty, now, we embrace it.
 
@@ -41,7 +39,7 @@ Communications tips
 2.  Agenda. Always have an agenda prepped and send along with the invite. This shows that you care and have thought about how to maximise the time with your team.
 3.  Take notes. And follow-up with everyone in the meeting. This way, no important information will be missed and it will help everyone bias towards action.
 
-Embracing Asynchronous communication
+## Embracing Asynchronous communication
 
 This was novel now it’s the norm. Instant replies aren’t and shouldn’t be the expectation. If you need an answer right away, make a call.
 
@@ -50,5 +48,3 @@ This was novel now it’s the norm. Instant replies aren’t and shouldn’t be 
 3.  You aren’t expected to be available all the time.
 4.  Clearly state what response you are after and when you need then by.
 5.  If something is urgent, call.
-
-\*\*

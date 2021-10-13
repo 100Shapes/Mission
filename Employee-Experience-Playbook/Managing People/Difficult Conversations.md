@@ -1,21 +1,20 @@
 ---
-contentType: Guide
 title: Difficult Conversations
-date: 2021-04-24T17:34
-
+lastUpdated: '2021-04-24'
 description: >
   Our guide to navigating the discussions you dread.
+author:
+  - Michele-Memoli
 ---
 
-![Alt text](./me.jpg "a title")
+## Where is the content?
 
-<p>Here's some HTML for good measure!</p>
+here?
 
-![Waterfall](./waterfall.jpg "a waterfall")
+![NextJS logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/440px-Nextjs-logo.svg.png 'NextJS Logo')
+
+<!-- ![Alt text](me.jpg 'a title') -->
 
 <pre>
   <code>{JSON.stringify(props, null, 2)}</code>
 </pre>
-
-
-You should checkout [[Strengths]] too.
