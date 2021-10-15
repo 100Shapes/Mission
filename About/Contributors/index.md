@@ -9,6 +9,7 @@ Folks now
 
 - [Ali Randell](./Ali-Randell)
 - [Michele Memoli](./Michele-Memoli)
+- [Paolo Memoli](./Paolo-Memoli)
 
 ## Previous Team
 

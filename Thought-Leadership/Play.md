@@ -1,6 +1,6 @@
 ---
 contentType: Entry
-title: Play
+title: Design through Play
 description: >
   Play with a capital "P".
 ---
