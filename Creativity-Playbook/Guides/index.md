@@ -1,5 +1,5 @@
 ---
-title: Building Our Brain
+title: Guides
 descriptions: The thoughts and decisions we went through
 contentType: Story
 ---
