@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "useTab": false
+}
